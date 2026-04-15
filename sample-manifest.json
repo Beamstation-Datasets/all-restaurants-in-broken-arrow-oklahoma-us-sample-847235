@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3b629e93-c922-48d7-ac0f-e876b963ceac",
+  "id_short": 847235,
+  "published_at": "2026-04-15T07:32:48Z",
+  "repo_name": "all-restaurants-in-broken-arrow-oklahoma-us-sample-847235",
+  "sample_asset_name": "beamstation_847235_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/847235/beamstation_847235_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "2a2f8dddffaf8a3ef5f5391a7699eaed22a56b4eb6ea3797104b2e07de528437",
+  "sample_size_bytes": 106668,
+  "total_records": 282
+}
