@@ -9,9 +9,9 @@
 | Dataset ID | `847235` |
 | Location | Broken Arrow |
 | Category | Restaurants |
-| Full dataset size | 282 records |
-| Free sample size | 25 records (8.87%) |
-| Last export | 2026-04-07T10:20:23.281074+00:00 |
+| Full dataset size | 257 records |
+| Free sample size | 25 records (9.73%) |
+| Last export | 2026-04-14T10:10:14.203704+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-broken-arrow-oklahoma-us-sample-847235/releases/download/sample-latest/beamstation_847235_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
