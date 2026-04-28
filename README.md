@@ -1,6 +1,6 @@
 # All Restaurants in Broken Arrow, Oklahoma, US
 
-> Free BeamStation sample export with 15 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `847235` |
 | Location | Broken Arrow |
 | Category | Restaurants |
-| Full dataset size | 158 records |
-| Free sample size | 15 records (9.49%) |
-| Last export | 2026-04-21T10:11:27.052530+00:00 |
+| Full dataset size | 282 records |
+| Free sample size | 28 records (9.93%) |
+| Last export | 2026-04-28T10:33:33.343622+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-broken-arrow-oklahoma-us-sample-847235/releases/download/sample-latest/beamstation_847235_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
